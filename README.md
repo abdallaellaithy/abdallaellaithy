@@ -55,13 +55,17 @@
       <p>My ultimate goal is to contribute to the AI community and help pave the way for a future where AI technologies play a pivotal role in making life easier for people around the world. By sharing knowledge, collaborating on projects, and staying engaged with the latest developments in the field, I aim to be part of this transformative journey.</p>
   </section>
 
-  <section>
-      <h2>Connect with Me</h2>
-      <ul>
-          <li><a href="https://www.linkedin.com/in/abdallaellaithy/">LinkedIn</a></li>
-          <li><a href="https://leetcode.com/abdallaellaithy/">LeetCode</a></li>
-          <li><a href="mailto:abdallaellaithy@gmail.com">abdallaellaithy@gmail.com</a></li>
-      </ul>
-  </section>
+## Connect with Me
+
+[![LinkedIn](https://cdn.icon-icons.com/icons2/2530/PNG/256/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/abdallaellaithy/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://cdn.icon-icons.com/icons2/2530/PNG/256/leetcode_button_icon_151892.png)](https://leetcode.com/abdallaellaithy/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://cdn.icon-icons.com/icons2/2530/PNG/256/gmail_button_icon_151848.png)](mailto:abdallaellaithy@gmail.com)
+
+
+
+
+
 </body>
 </html>
