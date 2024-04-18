@@ -20,7 +20,7 @@
 <body>
     <header>
         <h1>Abdalla Ellaithy</h1>
-        <p>Hey there! 👋 I'm Abdalla Ellaithy, a student passionate about Artificial Intelligence, particularly in the realms of Machine Learning, Deep Learning, and Natural Language Processing (NLP). Currently, I'm pursuing my studies at Nile University in Egypt, diving deep into the exciting world of AI.</p>
+        <p>Hey there! 👋 I'm Abdalla Ellaithy, a student passionate about Artificial Intelligence, particularly in the realms of Machine Learning, Deep Learning, and Natural Language Processing (NLP). Currently, I'm pursuing my studies at <a href="https://nu.edu.eg/">Nile University</a> in Egypt, diving deep into the exciting world of AI.</p>
     </header>
 
   <section>
