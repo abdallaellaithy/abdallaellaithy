@@ -1,39 +1,12 @@
-                                 \\\\\\\
-                                \\\\\\\\\\\\
-                              \\\\\\\\\\\\\\\
-      -----------,-|           |C>   // )\\\\|                    @@@@@@@@@@            @@@@@@@      @@@@@@
-               ,','|          /    || ,'/////|                       @@@@            @@@------@@@ @@@------@@@@
-    ---------,','  |         (,    ||   /////                        @@@@           @@----------@@@-----------@@
-             ||    |          \\  ||||//''''|                        @@@@           @-------------------------@@
-             ||    |           |||||||     _|                        @@@@           @@-----------------------@@
-             ||    |______      `````\____/ \                        @@@@            @@---------------------@@
-             ||    |     ,|         _/_____/ \                       @@@@             @@@------------------@@
-             ||  ,'    ,' |        /          |                      @@@@               @@@--------------@@@
-             ||,'    ,'   |       |         \  |                     @@@@                 @@@----------@@@
-      _________|/    ,'     |      /           | |                   @@@@                   @@@@@@@@@@@
-    _____________,'      ,',_____|      |    | |                  @@@@@@@@@@                   @@@@@@
-                 |     ,','      |      |    | |                                                 @@
-                 |   ,','    ____|_____/    /  |
-                 | ,','  __/ |             /   |
-    _____________|','   ///_/-------------/   |
-                  |==========='
-      
-    
-                              @@@@@@@       @@@@@@      @@@@@@@@@@     @@@@@@@   @@@@@    @@@@@     @@@@@@@@
-                            @@@    @@     @@@    @@@      @@@    @@@     @@@      @@@@@     @     @@@     @@@  
-                           @@@     @@    @@@     @@@@     @@@    @@@@    @@@      @@ @@@    @    @@@@  
-                          @@@@           @@@      @@@     @@@     @@@    @@@      @@  @@@   @    @@@ 
-                          @@@@           @@@      @@@     @@@     @@@    @@@      @@   @@@@ @    @@@    @@@@@ 
-                           @@@           @@@     @@@      @@@    @@@@    @@@      @@    @@@@@    @@@@     @@@
-                            @@@    @@     @@@    @@@      @@@   @@@      @@@      @@     @@@@     @@@     @@@
-                              @@@@@@        @@@@@       @@@@@@@@@      @@@@@@@   @@@@@     @@        @@@@@
-                                                                              
+![My LinkedIn Banner](https://camo.githubusercontent.com/d544b244e4fdb6308de4551367acf6d604b3985bc71d9779a884287186f9cafc/68747470733a2f2f692e726564642e69742f627078787171767073346839312e676966)
 
 <body>
-    <header>
-        <h1>Abdalla Ellaithy</h1>
-        <p>Hey there! 👋 I'm Abdalla Ellaithy, a student passionate about Artificial Intelligence, particularly in the realms of Machine Learning, Deep Learning, and Natural Language Processing (NLP). Currently, I'm pursuing my studies at <a href="http://www.nu.edu.eg">Nile University</a> in Egypt, diving deep into the exciting world of AI.</p>
-    </header>
+<header>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdalla+Ellaithy!;" />
+  </h1>
+  <p>Hey there! 👋 I'm Abdalla Ellaithy, a student passionate about Artificial Intelligence, particularly in the realms of Machine Learning, Deep Learning, and Natural Language Processing (NLP). Currently, I'm pursuing my studies at <a href="http://www.nu.edu.eg">Nile University</a> in Egypt, diving deep into the exciting world of AI.</p>
+</header>
 
   <section>
       <h2>About Me</h2>
