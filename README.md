@@ -3,7 +3,9 @@
 <body>
 <header>
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdalla+Ellaithy!;" />
+    <div style="text-align: right; margin-right: 50px;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdalla+Ellaithy!;" />
+    </div>
   </h1>
   <p>Hey there! 👋 I'm Abdalla Ellaithy, a student passionate about Artificial Intelligence, particularly in the realms of Machine Learning, Deep Learning, and Natural Language Processing (NLP). Currently, I'm pursuing my studies at <a href="http://www.nu.edu.eg">Nile University</a> in Egypt, diving deep into the exciting world of AI.</p>
 </header>
@@ -35,9 +37,6 @@
 [![LeetCode](https://cdn.icon-icons.com/icons2/2530/PNG/256/leetcode_button_icon_151892.png)](https://leetcode.com/abdallaellaithy/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://github.com/abdallaellaithy/abdallaellaithy/blob/main/gmail_button_icon_1518.png?raw=true)](mailto:abdallaellaithy@gmail.com)
-
-
-
 
 </body>
 </html>
