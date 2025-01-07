@@ -31,12 +31,13 @@
   </section>
 
 ## Connect with Me
-
-[![LinkedIn](https://cdn.icon-icons.com/icons2/2530/PNG/256/linkedin_button_icon_151847.png)](https://www.linkedin.com/in/abdallaellaithy/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![LeetCode](https://cdn.icon-icons.com/icons2/2530/PNG/256/leetcode_button_icon_151892.png)](https://leetcode.com/abdallaellaithy/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://github.com/abdallaellaithy/abdallaellaithy/blob/main/gmail_button_icon_1518.png?raw=true)](mailto:abdallaellaithy@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/doodle/96/linkedin--v2.png" alt="linkedin--v2"/></a>
+<a href="mailto:abdallaellaithy@gmail.com" target="blank"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/gmail-new.png" alt="gmail-new"/></a>
+<a href="https://www.youtube.com/@TipsHindawi" target="blank"><img width="110" height="110" src="https://img.icons8.com/plasticine/120/youtube-play--v2.png" alt="youtube-play--v2"/></a>
+<a href="https://www.leetcode.com/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo"/></a>
+<a href="https://kaggle.com/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo"/></a>
+</p>
 
 </body>
 </html>
