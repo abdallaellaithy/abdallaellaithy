@@ -31,7 +31,7 @@
   </section>
 
 ## Connect with Me
-<p align="left">
+<p align="middle">
 <a href="https://linkedin.com/in/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/doodle/96/linkedin--v2.png" alt="linkedin--v2"/></a>
 <a href="mailto:abdallaellaithy@gmail.com" target="blank"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/gmail-new.png" alt="gmail-new"/></a>
 <a href="https://www.youtube.com/@TipsHindawi" target="blank"><img width="110" height="110" src="https://img.icons8.com/plasticine/120/youtube-play--v2.png" alt="youtube-play--v2"/></a>
