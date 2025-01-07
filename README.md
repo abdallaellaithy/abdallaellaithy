@@ -30,6 +30,17 @@
       <p>My ultimate goal is to contribute to the AI community and help pave the way for a future where AI technologies play a pivotal role in making life easier for people around the world. By sharing knowledge, collaborating on projects, and staying engaged with the latest developments in the field, I aim to be part of this transformative journey.</p>
   </section>
 
+## Programming Languages 🧑‍💻
+
+## Tools & Software 🛠️
+
+## Libraries & Frameworks 📚
+
+## Cloud & DevOps ☁️
+
+## Databases & Version Control 💾
+
+
 ## Connect with Me
 <p align="middle">
 <a href="https://linkedin.com/in/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/doodle/96/linkedin--v2.png" alt="linkedin--v2"/></a>
@@ -39,5 +50,12 @@
 <a href="https://kaggle.com/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo"/></a>
 </p>
 
+##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallaellaithy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallaellaithy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
 </body>
 </html>
+
