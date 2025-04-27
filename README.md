@@ -87,12 +87,6 @@
 <a href="https://kaggle.com/abdallaellaithy" target="blank"><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo"/></a>
 </p>
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallaellaithy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallaellaithy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
 </body>
 </html>
 
